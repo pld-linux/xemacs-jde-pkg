@@ -33,7 +33,7 @@ power to many commercial Java IDEs.
 %description -l pl
 JDE (Java Development Environment) to pakiet Emacsa dodaj±cy interfejs
 do narzêdzi programistycznych do Javy innych producentów, takich jak
-JDK (Java Development Kit) JavaSoftu. Rezultatem jest zintegroawane
+JDK (Java Development Kit) JavaSoftu. Rezultatem jest zintegrowane
 ¶rodowisko programisty porównywalne do wielu komercyjnych IDE.
 
 %prep
