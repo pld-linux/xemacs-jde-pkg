@@ -23,10 +23,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 The Java Development Environment (JDE) is an Emacs Lisp package that
-interfaces Emacs to third-party Java application development tools, such as
-those provided by JavaSoft's Java Development Kit (JDK). The result is an
-integrated development environment (IDE) comparable in power to many
-commercial Java IDEs.
+interfaces Emacs to third-party Java application development tools,
+such as those provided by JavaSoft's Java Development Kit (JDK). The
+result is an integrated development environment (IDE) comparable in
+power to many commercial Java IDEs.
 
 %prep
 %setup -q -c
