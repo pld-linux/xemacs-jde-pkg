@@ -2,7 +2,7 @@ Summary:	Java language and development support
 Summary(pl):	Java language and development support
 Name:		xemacs-jde-pkg
 %define 	srcname	jde
-Version:	1.27
+Version:	1.30
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
