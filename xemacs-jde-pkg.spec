@@ -3,7 +3,7 @@ Summary(pl):	Wsparcie dla jêzyka i programowania w Javie
 Name:		xemacs-jde-pkg
 %define 	srcname	jde
 Version:	1.46
-Release:	2
+Release:	3
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
