@@ -3,7 +3,7 @@ Summary(pl):	Wsparcie dla jêzyka i programowania w Javie
 Name:		xemacs-jde-pkg
 %define 	srcname	jde
 Version:	1.35
-Release:	1
+Release:	2
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
@@ -18,6 +18,8 @@ Requires:	xemacs-edit-utils-pkg
 Requires:	xemacs-eterm-pkg
 Requires:	xemacs-mail-lib-pkg
 Requires:	xemacs-base-pkg
+Requires:	xemacs-eieio-pkg
+Requires:	xemacs-semantic-pkg
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
@@ -54,3 +56,4 @@ rm -fr $RPM_BUILD_ROOT
 %{_datadir}/xemacs-packages%{_sysconfdir}/*
 %dir %{_datadir}/xemacs-packages/lisp/*
 %{_datadir}/xemacs-packages/lisp/*/*.el*
+%{_datadir}/xemacs-packages/pkginfo/*
