@@ -1,5 +1,5 @@
 Summary:	Java language and development support
-Summary(pl.UTF-8):   Wsparcie dla języka i programowania w Javie
+Summary(pl.UTF-8):	Wsparcie dla języka i programowania w Javie
 Name:		xemacs-jde-pkg
 %define 	srcname	jde
 Version:	1.46
