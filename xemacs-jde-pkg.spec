@@ -1,5 +1,5 @@
 Summary:	Java language and development support
-Summary(pl):	Wsparcie dla jêzyka i programowania w Javie
+Summary(pl.UTF-8):   Wsparcie dla jÄ™zyka i programowania w Javie
 Name:		xemacs-jde-pkg
 %define 	srcname	jde
 Version:	1.46
@@ -30,11 +30,11 @@ such as those provided by JavaSoft's Java Development Kit (JDK). The
 result is an integrated development environment (IDE) comparable in
 power to many commercial Java IDEs.
 
-%description -l pl
-JDE (Java Development Environment) to pakiet Emacsa dodaj±cy interfejs
-do narzêdzi programistycznych do Javy innych producentów, takich jak
+%description -l pl.UTF-8
+JDE (Java Development Environment) to pakiet Emacsa dodajÄ…cy interfejs
+do narzÄ™dzi programistycznych do Javy innych producentÃ³w, takich jak
 JDK (Java Development Kit) JavaSoftu. Rezultatem jest zintegrowane
-¶rodowisko programisty porównywalne do wielu komercyjnych IDE.
+Å›rodowisko programisty porÃ³wnywalne do wielu komercyjnych IDE.
 
 %prep
 %setup -q -c
