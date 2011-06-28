@@ -2,12 +2,12 @@ Summary:	Java language and development support
 Summary(pl.UTF-8):	Wsparcie dla języka i programowania w Javie
 Name:		xemacs-jde-pkg
 %define 	srcname	jde
-Version:	1.46
-Release:	3
+Version:	1.52
+Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	http://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
-# Source0-md5:	60f5d299a53be811f6ef6006f2566c20
+# Source0-md5:	12354d90495bdb14ebc39b71ae7c088c
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
 Conflicts:	xemacs-sumo
